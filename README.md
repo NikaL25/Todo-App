@@ -11,7 +11,7 @@ Create a ToDo application to manage tasks.
 
 - Built with TypeScript, React, and React Hooks
 - Tests for app startup and todoReducer
-- Hosted on Vercel ''
+- Hosted on github pages 'https://nikal25.github.io/Todo-App/'
 
 ## Available Commands
 
